@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome to the Statistics and Probability for Data Science Course  👋
+
+Lab: **DS14270**
+Semester: **Fall 2025**
+
+Have a safe and enjoyable ride!
 
 <!--
 
